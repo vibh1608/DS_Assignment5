@@ -22,3 +22,5 @@ Indians play Baseball.
 Indians play Cricket.
 Indians watch Baseball.
 Indians watch Cricket.
+
+I have written program for both the problems and screenshots of the output have been attached.
